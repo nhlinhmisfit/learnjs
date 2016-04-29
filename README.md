@@ -7,3 +7,4 @@
 	Block scope, meaning that you can create blocks arbitrarily to cotain variables.
 	The "var" keyword is not block scope.
 	"var" uses function scope instead.
+	Hoisting:
